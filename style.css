@@ -19,6 +19,11 @@ color: grey;
    #myCarousel{
       display: none;
    }
+}
+   @media screen and (min-device-width: 517px) { 
+      #secimg{
+         display: none;
+      }
   }
 
   @media screen and (max-device-width: 994px) { 
