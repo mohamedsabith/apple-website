@@ -1,0 +1,23 @@
+
+.nav-link:hover{
+color: grey;
+}
+
+@media screen and (max-device-width: 833px) { 
+ .nav-item{
+    display: none;
+ }
+}
+
+@media screen and (max-device-width: 380px) { 
+   #head-section{
+      display: none;
+   }
+  }
+
+
+@media screen and (max-device-width: 765px) { 
+   .section1{
+      margin-top: 20px;
+   }
+  }
