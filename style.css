@@ -15,6 +15,18 @@ color: grey;
    }
   }
 
+  @media screen and (max-device-width: 517px) { 
+   #myCarousel{
+      display: none;
+   }
+  }
+
+  @media screen and (max-device-width: 994px) { 
+   #footer-section{
+      display: none;
+   }
+  }
+
 
 @media screen and (max-device-width: 765px) { 
    .section1{
